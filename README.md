@@ -1,2 +1,2 @@
 # validadores
-Scripts que validan datasets
+Scripts que validan datos abiertos en datos.gob.mx
